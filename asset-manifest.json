@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vish4030/Weather_Forecast.git/static/css/main.7cc8a66f.css",
+    "main.js": "/vish4030/Weather_Forecast.git/static/js/main.782d4fb6.js",
+    "static/media/bg2.jpg": "/vish4030/Weather_Forecast.git/static/media/bg2.51ef6960e9db4bfe3527.jpg",
+    "static/media/bg3.jpg": "/vish4030/Weather_Forecast.git/static/media/bg3.bfa0994b36b422ff28d4.jpg",
+    "static/media/cloud.png": "/vish4030/Weather_Forecast.git/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/vish4030/Weather_Forecast.git/index.html",
+    "main.7cc8a66f.css.map": "/vish4030/Weather_Forecast.git/static/css/main.7cc8a66f.css.map",
+    "main.782d4fb6.js.map": "/vish4030/Weather_Forecast.git/static/js/main.782d4fb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cc8a66f.css",
+    "static/js/main.782d4fb6.js"
+  ]
+}
